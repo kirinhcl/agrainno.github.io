@@ -22,7 +22,7 @@ title: AgrAinno
 email: chenghao.lu@tum.de
 description: >- # this means to ignore newlines until "baseurl:"
   Agriculture Innovation
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/agrainno.github.io" # the subpath of your site, e.g. /blog
 url: "https://kirinhcl.github.io/agrainno.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
